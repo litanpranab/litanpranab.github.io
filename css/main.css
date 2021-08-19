@@ -1,0 +1,17 @@
+h1 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+body{
+    background-color: aqua;
+}
+ul{
+    text-align: center;
+    list-style-position: inside;
+    padding-left: 0;
+}
+p{
+    font-size: larger;
+}
