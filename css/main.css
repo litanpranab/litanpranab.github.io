@@ -20,3 +20,10 @@ img{
     height: 90px;
     align-self: center;
 }
+#head,footer{
+    border: black solid 5px;
+    padding: 10px;
+    margin: 30px;
+    background-color:dimgray;
+    color: darkorange;
+}
