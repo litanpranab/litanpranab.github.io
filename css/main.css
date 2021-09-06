@@ -1,31 +1,3 @@
-h1 {
-    color: black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: larger;
-}
-
-body{
-    background-color: aqua;
-}
-ul{
-    /* text-align: center; */
-    position: relative;
-    left: 70px;
-    list-style-position: inside;
-    padding-left: 0;
-}
-p{
-    font-size: larger;
-}
-img{
-    width: 90px;
-    height: 90px;
-    align-self: center;
-}
-#head,footer{
-    border: black solid 5px;
-    padding: 10px;
-    margin: 30px;
-    background-color:dimgray;
-    color: darkorange;
+ul li {
+    
 }
