@@ -40,3 +40,16 @@ footer {
     padding: 25px 0;
     text-align: center;
 }
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
